@@ -8,7 +8,7 @@ You can run the software by using the jar file with this command:
 java -jar BookYourResort.jar
 ```
 
-List of the **Design Patterns** we used:
+List of the **Design Patterns** we implemented:
 - Composite
 - Observer
 - Strategy
